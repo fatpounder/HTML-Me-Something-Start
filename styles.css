@@ -1,1 +1,50 @@
-/* Write your CSS here! */
+body {
+    display: block;
+    margin: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    padding-left: 20px;
+    padding-right: 80px;
+    padding-top: 20px;
+    padding-bottom: 80px;
+    background-color: deeppink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#mainHeading {
+    color: red;
+    background: linear-gradient(white, lightslategray);
+    margin-right: 20px;
+    font-size: 60px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    outline-style: double;
+    outline-color: darkslategray;
+    
+}
+
+footer {
+    padding-top: 60px;
+    padding-bottom: 20px;
+    font-family: cursive;
+}
+
+.topics {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    margin-top: 30px;  
+}
+
+.pics {
+    max-width: 30%;
+    max-height: 50%;
+    margin-top: 20px; 
+    outline-style: groove;
+    outline-color: dimgrey;
+}
+
+.funParagraph {
+    color: green;
+}
